@@ -1,2 +1,3 @@
 # algo
-Algorithm Course Record \
+
+Algorithm Course Record
